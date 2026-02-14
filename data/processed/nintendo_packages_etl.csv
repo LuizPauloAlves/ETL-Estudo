@@ -1,0 +1,110 @@
+,Game,Platform,Send Date,Region,Order Status,E-commerce,Stock Quantity,Preço Unit Price,Total Price,Store Manager,Batch,Age Rating,Publisher
+0,The Legend of Zelda: Breath of the Wild,Switch,2024-04-15,English,Pending,GameShop,167,50.07,8361.69,Crystal Haynes,202,Free,First Party
+1,The Legend of Zelda: Breath of the Wild,Switch,2023-06-04,Portuguese,Pending,GameShop,91,49.16,4473.56,Craig Green,202,12+,First Party
+2,Pokémon Sword,Switch,2023-09-02,Japanese,Pending,PlayWorld,50,57.54,2877.0,Edgar Vargas,047,10+,First Party
+3,Pokémon Sword,Switch,2024-09-07,Japanese,Completed,GameShop,177,52.33,9262.41,Lisa Archer,047,Free,First Party
+4,Pokémon Shield,Switch,2023-04-09,Japanese,Completed,DigitalStore,169,53.19,8989.11,Louis Phillips,115,12+,First Party
+5,Super Mario Odyssey,Switch,2024-12-15,Japanese,Pending,PlayWorld,114,40.27,4590.78,Ryan Huang,202,18+,First Party
+6,The Legend of Zelda: Breath of the Wild,Switch,2024-10-04,English,Completed,GameShop,96,47.64,4573.44,Betty Campbell,047,12+,First Party
+7,Super Mario Odyssey,Switch,2023-11-14,English,Completed,DigitalStore,68,55.31,3761.08,Michael Miller,115,16+,First Party
+8,Pokémon Sword,Switch,2023-03-26,Japanese,Canceled,DigitalStore,148,44.0,6512.0,Jeremiah Small,202,12+,First Party
+9,The Legend of Zelda: Breath of the Wild,Switch,2023-04-25,Portuguese,Completed,PlayWorld,94,40.2,3778.8,James Anderson,115,12+,First Party
+11,Pokémon X,3DS,2024-08-27,Portuguese,Completed,GameShop,195,34.84,6793.8,Stephanie Nelson,115,16+,First Party
+12,The Legend of Zelda: Ocarina of Time 3D,3DS,2024-08-02,Portuguese,Completed,DigitalStore,130,44.53,5788.9,Michael Morse,047,16+,First Party
+13,The Legend of Zelda: Ocarina of Time 3D,3DS,2024-03-05,English,Canceled,PlayWorld,140,19.73,2762.2,Bailey Cabrera,115,16+,First Party
+14,Animal Crossing: New Leaf,3DS,2023-07-13,English,Completed,DigitalStore,166,17.45,2896.7,David Lee,115,Free,First Party
+15,Pokémon X,3DS,2023-10-11,English,Pending,GameShop,80,40.45,3236.0,Brian Morris,202,Free,First Party
+16,Pokémon Y,3DS,2024-05-08,English,Completed,DigitalStore,143,16.54,2365.22,Nathan Jones,047,16+,First Party
+17,Pokémon Y,3DS,2024-08-28,Portuguese,Pending,GameShop,199,23.82,4740.18,John Holmes,047,10+,First Party
+18,The Legend of Zelda: Ocarina of Time 3D,3DS,2023-01-11,English,Completed,DigitalStore,140,41.62,5826.8,Justin Hansen,047,12+,First Party
+19,Pokémon Y,3DS,2024-04-21,Portuguese,Completed,PlayWorld,114,40.58,4626.12,Michael Moran,115,16+,First Party
+20,The Legend of Zelda: Ocarina of Time 3D,3DS,2023-10-19,Japanese,Completed,GameShop,70,18.05,1263.5,Edward Smith,202,10+,First Party
+22,Animal Crossing: New Leaf,3DS,2023-03-22,Japanese,Pending,DigitalStore,182,33.49,6095.18,Adrian Villarreal,047,12+,First Party
+23,The Legend of Zelda: Ocarina of Time 3D,3DS,2023-08-26,Portuguese,Completed,PlayWorld,127,29.68,3769.36,Wendy Harper,115,10+,First Party
+24,Animal Crossing: New Leaf,3DS,2023-01-11,Japanese,Completed,GameShop,159,42.94,6827.46,Allen Cline,047,10+,First Party
+25,The Legend of Zelda: Ocarina of Time 3D,3DS,2023-08-28,Portuguese,Completed,PlayWorld,172,18.79,3231.88,David Reyes,202,18+,First Party
+26,Pokémon X,3DS,2023-08-11,Portuguese,Pending,DigitalStore,119,40.26,4790.94,Sean Scott,047,Free,First Party
+27,Pokémon X,3DS,2024-09-29,Japanese,Completed,PlayWorld,130,42.91,5578.3,Jessica Murphy DDS,047,18+,First Party
+28,Pokémon Y,3DS,2023-06-01,Portuguese,Completed,GameShop,192,32.39,6218.88,Anthony Gray,047,Free,First Party
+29,Super Mario 3D Land,3DS,2023-08-30,English,Completed,DigitalStore,180,22.68,4082.4,Jacob Nichols,202,18+,First Party
+30,Animal Crossing: New Leaf,3DS,2024-12-01,Portuguese,Completed,PlayWorld,124,20.96,2599.04,Brian Scott,115,18+,First Party
+31,Pokémon Y,3DS,2023-07-07,Japanese,Pending,DigitalStore,110,19.46,2140.6,Kevin Woodward,115,12+,First Party
+32,Super Mario Advance 4,GBA,2024-10-11,Japanese,Pending,PlayWorld,22,13.47,296.34,Nancy Hanson,115,10+,First Party
+33,The Legend of Zelda: The Minish Cap,GBA,2024-04-21,Japanese,Canceled,DigitalStore,23,10.71,246.33,Jessica Grant,047,Free,First Party
+34,The Legend of Zelda: The Minish Cap,GBA,2023-10-02,Japanese,Canceled,PlayWorld,51,20.66,1053.66,Mr. Robert Bailey,202,Free,First Party
+35,Pokémon Emerald,GBA,2023-12-30,Portuguese,Completed,PlayWorld,77,28.33,2181.41,Tammy Cervantes,202,18+,First Party
+36,Pokémon Emerald,GBA,2024-11-08,Portuguese,Canceled,PlayWorld,80,24.35,1948.0,Raymond Watson,202,12+,First Party
+37,Pokémon Emerald,GBA,2023-05-24,Japanese,Completed,DigitalStore,40,19.95,798.0,Melissa Hernandez,115,10+,First Party
+38,Super Mario Advance 4,GBA,2024-11-06,English,Completed,GameShop,100,14.79,1479.0,Samantha Owen,115,Free,First Party
+39,Pokémon Emerald,GBA,2023-01-31,Japanese,Completed,PlayWorld,73,21.71,1584.83,Rebecca Bowman,202,18+,First Party
+40,Pokémon LeafGreen,GBA,2024-09-09,English,Completed,GameShop,29,11.36,329.44,Hannah Bullock,047,16+,First Party
+41,The Legend of Zelda: The Minish Cap,GBA,2023-12-27,Portuguese,Completed,DigitalStore,46,13.49,620.54,Alexandra Clark,115,12+,First Party
+42,Pokémon LeafGreen,GBA,2023-04-30,Japanese,Pending,GameShop,53,26.06,1381.18,Christina Jennings,202,10+,First Party
+43,Pokémon FireRed,GBA,2023-02-20,Portuguese,Pending,PlayWorld,99,17.17,1699.83,Kristin Green,202,Free,First Party
+44,Mario Kart: Super Circuit,GBA,2023-05-19,Portuguese,Pending,DigitalStore,81,17.38,1407.78,Kevin Salazar,047,12+,First Party
+45,Pokémon Emerald,GBA,2024-04-27,Portuguese,Completed,PlayWorld,20,25.24,504.8,Vanessa Murphy,202,10+,First Party
+46,Mario Kart: Super Circuit,GBA,2023-07-24,Portuguese,Pending,PlayWorld,41,28.68,1175.88,Michael Reyes,047,Free,First Party
+47,Pokémon LeafGreen,GBA,2024-11-15,Japanese,Completed,PlayWorld,30,15.97,479.1,Bruce Graham DDS,202,12+,First Party
+48,The Legend of Zelda: The Minish Cap,GBA,2023-07-27,Portuguese,Pending,DigitalStore,96,24.21,2324.16,Jose Obrien,047,12+,First Party
+50,Pokémon LeafGreen,GBA,2023-11-30,Portuguese,Completed,GameShop,98,17.12,1677.76,Charles Hodge,202,16+,First Party
+51,Pokémon FireRed,GBA,2023-05-01,Portuguese,Completed,PlayWorld,88,14.95,1315.6,Danielle Reed,202,12+,First Party
+52,The Legend of Zelda: The Minish Cap,GBA,2023-04-19,English,Completed,GameShop,36,16.17,582.12,William Crawford,202,12+,First Party
+53,The Legend of Zelda: Phantom Hourglass,DS,2024-01-06,Japanese,Completed,GameShop,52,34.26,1781.52,Monica Hill,047,10+,First Party
+54,Animal Crossing: Wild World,DS,2024-05-25,Portuguese,Pending,PlayWorld,123,47.48,5840.04,Paul Williams,115,18+,First Party
+55,New Super Mario Bros.,DS,2024-04-25,Japanese,Completed,GameShop,159,29.62,4709.58,Karen Powers,047,10+,First Party
+56,Pokémon Pearl,DS,2024-07-12,Japanese,Completed,GameShop,99,28.95,2866.05,Anne Torres,047,16+,First Party
+57,Mario Kart DS,DS,2024-01-25,Portuguese,Completed,GameShop,188,46.26,8696.88,Mary Berger,115,Free,First Party
+58,Animal Crossing: Wild World,DS,2023-05-11,English,Completed,PlayWorld,75,43.78,3283.5,Andrea Fernandez,115,12+,First Party
+59,New Super Mario Bros.,DS,2024-02-09,Japanese,Completed,GameShop,174,37.73,6565.02,Debra Petersen,115,16+,First Party
+60,New Super Mario Bros.,DS,2024-07-02,Japanese,Completed,PlayWorld,143,39.61,5664.23,Kimberly Walker,115,18+,First Party
+61,Mario Kart DS,DS,2023-11-11,Portuguese,Completed,GameShop,137,30.1,4123.7,Ashley Simmons,202,16+,First Party
+62,Pokémon Pearl,DS,2023-04-30,Japanese,Completed,DigitalStore,136,43.81,5958.16,Taylor Miller,115,16+,First Party
+63,Mario Kart DS,DS,2023-02-28,Portuguese,Completed,GameShop,162,47.46,7688.52,Brent Blankenship,115,Free,First Party
+64,Mario Kart DS,DS,2024-06-03,Japanese,Completed,DigitalStore,197,37.65,7417.05,Michael Smith,202,10+,First Party
+65,Pokémon Diamond,DS,2023-05-01,Portuguese,Completed,PlayWorld,106,46.72,4952.32,Janet Harper,202,Free,First Party
+67,Animal Crossing: Wild World,DS,2023-11-15,Portuguese,Pending,DigitalStore,132,28.48,3759.36,Alexis Clark,047,18+,First Party
+68,Pokémon Pearl,DS,2023-02-05,Portuguese,Pending,PlayWorld,130,25.96,3374.8,Jerry Hart,047,Free,First Party
+69,New Super Mario Bros.,DS,2024-05-28,Japanese,Completed,PlayWorld,152,32.61,4956.72,Linda Nolan,202,16+,First Party
+70,Pokémon Pearl,DS,2024-03-03,Portuguese,Completed,GameShop,76,46.68,3547.68,Brian Fowler,047,12+,First Party
+71,New Super Mario Bros.,DS,2023-11-14,Japanese,Completed,PlayWorld,81,47.77,3869.37,Robert Chambers,115,10+,First Party
+75,Pokémon Pearl,DS,2023-09-09,English,Pending,PlayWorld,136,46.18,6280.48,Jennifer Peterson,047,Free,First Party
+76,New Super Mario Bros.,DS,2024-10-04,Portuguese,Completed,DigitalStore,150,37.74,5661.0,Charles Golden,202,12+,First Party
+77,Celeste,Switch,2023-11-22,English,Canceled,GameShop,97,59.72,5792.84,Sarah Cook,047,12+,Third Party
+78,Skyrim,Switch,2023-12-02,English,Canceled,GameShop,101,46.18,4664.18,Dwayne Long,115,Free,Third Party
+79,Dark Souls: Remastered,Switch,2023-02-18,Portuguese,Canceled,PlayWorld,136,38.67,5259.12,Kelly Moore,047,12+,Third Party
+80,DOOM,Switch,2023-08-07,English,Completed,PlayWorld,131,49.06,6426.86,Trevor Jones,047,12+,Third Party
+81,Dark Souls: Remastered,Switch,2024-03-05,Portuguese,Canceled,GameShop,98,58.56,5738.88,Janice Rodriguez,047,16+,Third Party
+82,Stardew Valley,Switch,2024-06-09,English,Completed,GameShop,137,33.84,4636.08,Erica Haas,115,18+,Third Party
+83,Cuphead,Switch,2023-12-01,English,Completed,PlayWorld,148,47.07,6966.36,Joseph James,202,18+,Third Party
+84,Rocket League,Switch,2023-12-01,English,Pending,GameShop,92,44.5,4094.0,Jennifer Wright,047,12+,Third Party
+85,Dark Souls: Remastered,Switch,2024-11-10,Portuguese,Pending,GameShop,144,57.19,8235.36,Tiffany Anderson,047,10+,Third Party
+86,Stardew Valley,Switch,2023-11-08,Japanese,Completed,GameShop,132,59.72,7883.04,Kelly Martinez,115,12+,Third Party
+87,Overcooked! 2,Switch,2023-12-14,Portuguese,Completed,GameShop,140,45.01,6301.4,Dr. Kenneth Allen,047,Free,Third Party
+88,Cuphead,Switch,2023-10-17,Japanese,Completed,PlayWorld,110,47.19,5190.9,Dr. Maria Peterson DDS,202,12+,Third Party
+89,DOOM,Switch,2024-06-21,Japanese,Completed,GameShop,91,54.13,4925.83,Alison Sandoval,115,16+,Third Party
+90,DOOM,Switch,2023-10-06,Japanese,Completed,GameShop,123,46.83,5760.09,Alejandro Bender,202,10+,Third Party
+91,Cuphead,Switch,2024-06-18,Japanese,Completed,GameShop,120,31.38,3765.6,Bryan Jimenez,202,10+,Third Party
+92,The Witcher 3: Wild Hunt - Complete Edition,Switch,2023-11-23,Japanese,Completed,DigitalStore,103,54.62,5625.86,Christine Jimenez,115,Free,Third Party
+93,Hollow Knight,Switch,2024-04-21,Japanese,Completed,DigitalStore,117,59.33,6941.61,Christina Jones,047,12+,Third Party
+94,DOOM,Switch,2023-11-09,Japanese,Completed,PlayWorld,85,37.81,3213.85,Amanda West,115,16+,Third Party
+95,DOOM,Switch,2024-02-16,Japanese,Pending,PlayWorld,148,33.73,4992.04,Robert Jordan,202,10+,Third Party
+96,Cuphead,Switch,2024-06-13,Portuguese,Completed,DigitalStore,123,35.03,4308.69,Cynthia Chan,115,Free,Third Party
+97,Bravely Default,3DS,2023-11-18,Portuguese,Completed,GameShop,35,35.79,1252.65,John Doe,115,12+,Third Party
+98,Persona Q: Shadow of the Labyrinth,3DS,2024-02-14,English,Completed,PlayWorld,50,37.4,1870.0,Jane Smith,202,Free,Third Party
+100,Fantasy Life,3DS,2023-07-04,Japanese,Pending,DigitalStore,75,25.88,1941.0,Alice Johnson,047,12+,Third Party
+101,Shin Megami Tensei IV,3DS,2024-01-22,English,Completed,GameShop,80,39.47,3157.6,Bob Brown,202,18+,Third Party
+102,Bravely Default,3DS,2023-03-12,Portuguese,Pending,PlayWorld,90,32.55,2929.5,Carol White,115,12+,Third Party
+103,Kingdom Hearts 3D: Dream Drop Distance,3DS,2024-08-21,Japanese,Completed,DigitalStore,60,38.6,2316.0,Xavier Young,115,10+,Third Party
+104,Persona Q: Shadow of the Labyrinth,3DS,2023-05-09,English,Completed,GameShop,55,30.25,1663.75,Yvonne Taylor,047,Free,Third Party
+105,Persona Q: Shadow of the Labyrinth,3DS,2024-06-11,Portuguese,Canceled,PlayWorld,85,36.44,3097.4,Zack Moore,202,12+,Third Party
+106,Monster Hunter Generations,3DS,2023-11-23,Japanese,Pending,GameShop,40,27.33,1093.2,Wendy Adams,115,16+,Third Party
+107,Dragon Quest VIII: Journey of the Cursed King,3DS,2024-01-15,English,Completed,PlayWorld,95,31.89,3029.55,Victor Paul,047,18+,Third Party
+109,Harvest Moon: Friends of Mineral Town,GBA,2024-10-30,Japanese,Pending,DigitalStore,30,18.6,558.0,Bob Carol,115,Free,Third Party
+110,Street Fighter Alpha 3,GBA,2024-04-01,Portuguese,Completed,PlayWorld,50,20.4,1020.0,Clara Johnson,047,10+,Third Party
+111,Harvest Moon: Friends of Mineral Town,GBA,2024-10-25,English,Pending,GameShop,48,22.5,1080.0,Daniel Smith,202,16+,Third Party
+112,Harvest Moon: Friends of Mineral Town,GBA,2024-06-27,Portuguese,Completed,DigitalStore,40,25.3,1012.0,Emily Roberts,115,12+,Third Party
+113,Tony Hawk's Pro Skater 2,GBA,2024-05-11,Japanese,Completed,PlayWorld,60,24.8,1488.0,Michael Terry,115,Free,Third Party
+114,Bomberman Tournament,GBA,2023-08-26,English,Completed,GameShop,45,26.4,1188.0,Nancy White,202,10+,Third Party
+115,Tony Hawk's Pro Skater 2,GBA,2023-09-21,Portuguese,Pending,DigitalStore,55,29.95,1647.25,Olivia Brown,047,18+,Third Party
+116,Bomberman Tournament,GBA,2024-05-15,Japanese,Completed,PlayWorld,65,19.85,1290.25,Peter Green,202,16+,Third Party
+117,Dragon Quest VIII: Journey of the Cursed King,GBA,2024-01-15,English,Completed,PlayWorld,70,28.4,1988.0,Quinn Johnson,047,18+,Third Party
